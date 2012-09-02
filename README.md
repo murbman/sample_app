@@ -1,3 +1,7 @@
+#Ruby on Rails Tutorial: sample application 
+I have made that tutorial to learn finally that fucking language.
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
